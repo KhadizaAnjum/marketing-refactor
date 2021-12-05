@@ -1,3 +1,4 @@
+/* Affects every element on the page */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -101,17 +102,8 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
+/* Applied to all sub-headings in the benefits section */
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
