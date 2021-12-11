@@ -214,6 +214,7 @@ p {
     text-align: center;
 }
 
+/*Applied to h2 in footer */
 .footer h2 {
     font-size: 20px;
 }
